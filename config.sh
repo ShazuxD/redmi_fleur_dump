@@ -1,8 +1,8 @@
 #!/bin/bash
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git"
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/ShazuxD/recovery-pbrb"
-export DT_BRANCH="test3"
+export DT_LINK="https://github.com/ShazuxD/device_xiaomi_fleur"
+export DT_BRANCH="12.1"
 export DEVICE="fleur"
 export OEM="xiaomi"
 export TARGET="bootimage"
