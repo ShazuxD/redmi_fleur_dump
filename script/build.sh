@@ -5,12 +5,14 @@ source $CONFIG
 
 # Change to the Source Directry
 
-cd /tmp/ci/external/noto-fonts/cjk
-wget https://github.com/ShazuxD/extras/raw/main/NotoSansEthiopic-Regular-VF.ttf
-wget https://github.com/ShazuxD/extras/raw/main/NotoSansEthiopic-Regular.ttf
-cd /tmp/ci/external/noto-fonts/other
-wget https://github.com/ShazuxD/extras/raw/main/NotoSansEthiopic-Regular-VF.ttf
-wget https://github.com/ShazuxD/extras/raw/main/NotoSansEthiopic-Regular.ttf
+cd /tmp/ci/external
+rm -rf noto-fonts
+git clone git clone https://android.googlesource.com/platform/external/noto-fonts -b android-s-beta-5
+
+cd /tmp/ci/platform/external
+rm -rf noto-fonts
+git clone https://android.googlesource.com/platform/external/noto-fonts -b android-s-beta-5
+
 cd /tmp/ci
 # Prepare the Build Environment
 source build/envsetup.sh
