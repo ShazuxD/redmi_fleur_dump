@@ -7,11 +7,8 @@ source $CONFIG
 
 cd /tmp/ci/external
 rm -rf noto-fonts
-git clone https://android.googlesource.com/platform/external/noto-fonts -b android-s-beta-5
+git clone https://android.googlesource.com/platform/external/noto-fonts -b master
 
-cd /tmp/ci/external
-rm -rf noto-fonts
-git clone https://android.googlesource.com/platform/external/noto-fonts -b android-s-beta-5
 
 cd /tmp/ci
 # Prepare the Build Environment
