@@ -5,9 +5,9 @@ source $CONFIG
 
 # Change to the Source Directry
 
-cd /tmp/ci/external
-rm -rf noto-fonts
-git clone https://android.googlesource.com/platform/external/noto-fonts -b master
+#cd /tmp/ci/external
+#rm -rf noto-fonts
+#git clone https://android.googlesource.com/platform/external/noto-fonts -b master
 
 
 cd /tmp/ci
