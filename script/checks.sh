@@ -10,4 +10,4 @@ fi
 #cd /tmp
 #time aria2c $URL -x16 -s50
 #time tar xf ccache.tar.gz
-echo
+echo 1
