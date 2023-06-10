@@ -1,0 +1,20 @@
+##  13 TQ2B.230505.005.A1 1686147619 release-keys
+- Manufacturer: xiaomi
+- Platform: mt6781
+- Codename: fleur
+- Brand: POCO
+- Flavor: 
+- Release Version: 13
+- Kernel Version: 
+- Id: TQ2B.230505.005.A1
+- Incremental: 1686147619
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: POCO/fleur_p_global/fleur:12/SP1A.210812.016/V13.0.7.0.SKEMIXM:user/release-keys
+- OTA version: 
+- Branch: -13-TQ2B.230505.005.A1-1686147619-release-keys
+- Repo: poco_fleur_dump
