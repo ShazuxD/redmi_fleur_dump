@@ -1,0 +1,20 @@
+## missi_phoneext4_global-user 13 TP1A.220624.014 V14.0.3.0.TKEMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6781
+- Codename: fleur
+- Brand: Redmi
+- Flavor: missi_phoneext4_global-user
+- Release Version: 13
+- Kernel Version: 4.14.186
+- Id: TP1A.220624.014
+- Incremental: V14.0.3.0.TKEMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/fleur/fleur:12/SP1A.210812.016/V14.0.3.0.TKEMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TKEMIXM-release-keys
+- Repo: redmi_fleur_dump
